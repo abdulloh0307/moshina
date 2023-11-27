@@ -1,0 +1,29 @@
+header {
+  background: #282829;
+  display: flex;
+  width: 1440px;
+  padding: 15px 50px;
+  flex-direction: column;
+  align-items: flex-start;
+
+}
+
+nav {
+  width: 743px;
+  color: #000;
+  text-align: center;
+  font-family: Inter;
+  font-size: 88px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 93px;
+}
+
+header.rasm {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  text-decoration: none;
+  align-items: center;
+  gap: 817px;
+}
